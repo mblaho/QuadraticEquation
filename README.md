@@ -1,6 +1,8 @@
 
 # <span style="color:rgb(213,80,0)">Quadratic equations</span>
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mblaho/QuadraticEquation)
+
  **Quadratic equation** is a polynomial equation of the second degree, meaning it has a term with x raised to the power of 2. **Standard form** of a quadratic equation is:
 
  $$ {\textrm{ax}}^2 +bx+c=0 $$ 
